@@ -1,6 +1,6 @@
 cask "tiny-usage" do
-  version "1.1.3"
-  sha256 "4423500cf7ed029de19326bd14ada10a3c13b5e4f9990fb0ab38ceb94a2c8ee2"
+  version "1.2.0"
+  sha256 "80e3506d439f8e58c7965b72e051533b7ecb80e8c3f74a38ca954c057152ae4f"
 
   url "https://github.com/AhaYue/tiny-usage/releases/download/v#{version}/TinyUsage-#{version}.dmg"
   name "Tiny Usage"
